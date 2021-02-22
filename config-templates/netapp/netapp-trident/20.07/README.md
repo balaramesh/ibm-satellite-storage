@@ -9,6 +9,7 @@ storage in IBM Satellite Clusters. In a nutshell:
    differential classes of service for Satellite end users to reference when
    creating PVCs.
 
+I want to make a simple change
 ### How to use the template to deploy and set up Trident on a Satellite Cluster?
 
 #### Pre-reqs
